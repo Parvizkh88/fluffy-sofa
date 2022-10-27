@@ -12,8 +12,12 @@ const Contact = () => {
             elit. Voluptatem est impedit quibusdam assumenda
             nam cupiditate odit voluptates ab provident magni!
           </p>
-          <form className="contact-form">
+          <form
+            action='https://formspree.io/f/mzbwjaab'
+            method='POST'
+            className="contact-form">
             <input type="email" className="form-input"
+              name='email'
               placeholder='enter email' />
             <button type='submit' className="submit-btn">
               submit
