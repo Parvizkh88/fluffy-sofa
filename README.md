@@ -21,3 +21,4 @@
 .env file in the root
 FAST_REFRESH=FALSE
 # fluffy_sofa-React_Ecommerce-
+![screenshot](src/assets/image 1.png)
