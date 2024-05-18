@@ -22,3 +22,5 @@
 FAST_REFRESH=FALSE
 # fluffy_sofa-React_Ecommerce-
 ![Screenshot](src/assets/image1.png)
+![Screenshot](src/assets/image2.png)
+![Screenshot](src/assets/image3.png)
